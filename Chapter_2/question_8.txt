@@ -1,0 +1,4 @@
+The three blocks are:
+print('eggs')
+print('bacon')
+print('ham')
