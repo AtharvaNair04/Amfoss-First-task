@@ -1,0 +1,3 @@
+A condition is a statement that corresponds to either True or False.
+Conditions are used in control flow statements for e.g if, while to determine the execution path of a program.
+

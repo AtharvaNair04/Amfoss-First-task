@@ -1,0 +1,23 @@
+1. and
+|  A   |   B   | A and B |
+| True | False |  False  |
+| True | True  |  True   |
+| False| True  |  False  |
+| False| False |  False  |
+
+2.or
+|  A  |  B   | A or B |
+|True |False |  True  |
+|True |True  |  True  |
+|False|True  |  True  |
+|False|False |  False |
+
+3.not
+| A   | not A |
+|True | False |
+|False| True  | 
+
+
+
+
+ 

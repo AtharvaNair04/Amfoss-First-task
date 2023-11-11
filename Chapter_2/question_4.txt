@@ -1,0 +1,6 @@
+1.(5 > 4) and (3 == 5) --> False
+2.not (5 > 4) --> False
+3.(5 > 4) or (3 == 5) --> True
+4.not ((5 > 4) or (3 == 5)) --> False
+5.(True and True) and (True == False) -->False
+6.(not False) or (not True) --> True 

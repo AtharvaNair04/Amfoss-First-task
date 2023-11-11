@@ -1,0 +1,4 @@
+The two values of Boolean data types are :
+1.True
+2.False
+We need to make the first letter of the boolean value in uppercase and other letters in lowercase.

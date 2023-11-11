@@ -1,0 +1,1 @@
+'break' is used to break off or exit from a loop permananetly whereas 'continue' means to just skip the remaining code in the loop for that iteration and move on to the next one.

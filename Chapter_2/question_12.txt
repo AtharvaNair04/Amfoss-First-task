@@ -1,0 +1,4 @@
+range(10), range(0,10) and range(1,10,1) , all of them are equivalent as all can produce the numbers from 0 to 9.
+In rnage(10) , it stats automatically from 0.
+In range(0,10), we can give the start and end point of the range.
+In range(0,10,1) , we can give the start , stop point and also the stepwise change.
