@@ -1,0 +1,1 @@
+When we try to add 1 to bacon we get the output as 21 however the variable inside bacon is still 20 as we have not modified the value of bacon or assign the new value back to bacon.

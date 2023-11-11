@@ -1,0 +1,1 @@
+We can see that 99 is an integer and not a string. Therefore we wont be able to get an output.

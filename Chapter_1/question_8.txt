@@ -1,0 +1,1 @@
+In python the variable name should always start with an alphabet. Therefore the variable eggs is valid while 100 is not.

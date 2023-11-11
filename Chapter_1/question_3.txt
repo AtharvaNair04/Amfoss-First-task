@@ -1,0 +1,4 @@
+The 3 data types are :
+1. Integer data type
+2. Floating-point data type
+3. String data type

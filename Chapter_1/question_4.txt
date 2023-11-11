@@ -1,0 +1,4 @@
+Expressions are made of 2 things:
+1. Values
+2.Operators
+Expessions always evalute, that is reduce down to a single value.

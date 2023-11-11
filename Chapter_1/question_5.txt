@@ -1,0 +1,2 @@
+Expressions always evalute down to a value whereas assignment statements store values in variables.
+An assignment variable consists of a variable name, an equal sign and the value stored.

@@ -1,0 +1,2 @@
+Variable: spam
+String: 'spam'

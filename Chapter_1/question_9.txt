@@ -1,0 +1,4 @@
+Three functions that can be used are:
+int(): converts value--> integer.
+float(): converts value--> floating-point number.
+str(): converts value--> string.

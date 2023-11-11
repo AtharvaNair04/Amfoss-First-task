@@ -1,0 +1,1 @@
+Both of the two expressions evalute to 'spamspamspam'

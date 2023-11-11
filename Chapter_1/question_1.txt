@@ -1,0 +1,3 @@
+Operators: * , - , / , +
+Values: 'hello', -88.8 , 5
+
