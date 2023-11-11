@@ -1,0 +1,2 @@
+This statement imports the module 'areallyourpetsnamederic' into our code.
+Thus we will be able to use all the functions available in this module.

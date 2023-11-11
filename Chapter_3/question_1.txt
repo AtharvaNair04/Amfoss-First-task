@@ -1,0 +1,4 @@
+Functions can in advantageous in the following ways:
+1.Function allows you to reuse a block of code again and again in different instances.
+2.Function helps in breaking down the code into managable parts and much readable format.
+3.Function helps in maintaining and debugging the code.

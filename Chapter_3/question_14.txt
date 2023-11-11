@@ -1,0 +1,3 @@
+In 'try' clause we place the code that may or may not give an error in return. 
+If we get an error we have the 'except' clause in which we give the proper response to the error and provides an alternative behaviour.
+

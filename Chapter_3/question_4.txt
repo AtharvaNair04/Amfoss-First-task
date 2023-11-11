@@ -1,0 +1,2 @@
+A function call is a start of the main function.
+Function is the block of code that performs the specified task.

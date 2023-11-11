@@ -1,0 +1,2 @@
+The def statement creates a function.
+

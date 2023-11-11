@@ -1,0 +1,2 @@
+With the help of try and except clause of exception handling to prevent a program from crashing.
+

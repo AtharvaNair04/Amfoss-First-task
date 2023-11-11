@@ -1,0 +1,1 @@
+When the function call is returned the local variable gets destroyed.

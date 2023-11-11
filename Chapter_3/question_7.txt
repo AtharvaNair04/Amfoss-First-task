@@ -1,0 +1,2 @@
+The return value is the value that the function returns to the call.
+Yes return value can be a part of an expression.

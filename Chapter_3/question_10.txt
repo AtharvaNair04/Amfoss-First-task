@@ -1,0 +1,1 @@
+None is of NoneType data type.

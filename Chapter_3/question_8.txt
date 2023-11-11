@@ -1,0 +1,1 @@
+If the function does not have a return value , the None is returned.

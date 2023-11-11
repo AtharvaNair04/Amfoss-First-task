@@ -1,0 +1,2 @@
+Local variables are created whenever a function is called whereas there is only one global variable.
+
