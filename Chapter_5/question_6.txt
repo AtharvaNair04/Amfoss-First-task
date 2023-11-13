@@ -1,0 +1,1 @@
+'cat' in spam checks if there is a key called cat and 'cat' in spam.values() check if there is a value called 'cat' in any  of its keys.

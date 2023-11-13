@@ -1,0 +1,1 @@
+Both are same and check if there is a key called cat in the dictionary.
