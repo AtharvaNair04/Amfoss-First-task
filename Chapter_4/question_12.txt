@@ -1,0 +1,5 @@
+These are the following ways in which list and string values are similar:
+1)They both can be replicated and concatenated.
+2)Both have index and slices.
+3)They can be used in for loops and with in and not in operators.
+4)len() works on both of them.

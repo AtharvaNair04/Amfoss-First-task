@@ -1,0 +1,3 @@
+There are two methods:
+1) del statement
+2) remove()

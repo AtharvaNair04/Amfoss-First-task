@@ -1,0 +1,1 @@
+I can assign it by using spam[2]=hello.

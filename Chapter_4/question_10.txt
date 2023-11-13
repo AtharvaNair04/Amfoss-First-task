@@ -1,0 +1,1 @@
+append() will add the value to the end of the list whereas the insert() will add them anywhere in the list.

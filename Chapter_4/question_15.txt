@@ -1,0 +1,2 @@
+To get tuple from list , we use tuple().
+To get list from tuple , we use list()

@@ -1,0 +1,8 @@
+Lists:
+1. The values inside lilst are mutable , i.e their values can be added ,removed or be changed.
+2. Square brackets [] are used to repesent them.
+
+Tuple:
+1. They are immutable , i.e their values can never be changed.
+2. Parentheses () is used to represent them.
+

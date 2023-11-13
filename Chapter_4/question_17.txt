@@ -1,0 +1,2 @@
+copy.copy() is a shallow copy of the list. It copies the refernce to the objects stored in the original.
+copy.deepcopy() is a deep copy of the list , i.e it copies all objects found in the list. This results in a complete independent copy where changes to the original copy will not affect the deep copy and vice versa. 

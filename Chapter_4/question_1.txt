@@ -1,0 +1,1 @@
+It is an empty list. It has no items.It is similar to an empty string.
