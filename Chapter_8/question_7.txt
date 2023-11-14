@@ -1,0 +1,1 @@
+As we entered blank three times,we get the return value hello as it was set as default.

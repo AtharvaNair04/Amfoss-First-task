@@ -1,0 +1,1 @@
+inputInt() returns a integer whereas inputFloat() returns a float value.

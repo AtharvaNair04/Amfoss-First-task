@@ -1,0 +1,2 @@
+By using min and max as shown:
+pyip.inputint(min=0,max=99)

@@ -1,0 +1,1 @@
+allowRegexes allows selected strings and allowRegexes denies some strings.
