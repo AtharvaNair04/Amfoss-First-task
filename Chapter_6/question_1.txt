@@ -1,0 +1,1 @@
+Escape characters help us to write characters in code which are not normally insterable in a string.
