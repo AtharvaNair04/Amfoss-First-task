@@ -1,0 +1,1 @@
+It is a line of code that causes the debugger to pause when the program execution reaches that line.

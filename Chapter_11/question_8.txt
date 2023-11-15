@@ -1,0 +1,3 @@
+1.We can disable logging messages withoutt having to remove function calls.
+2.Selectively disable lower-level logging  messages.
+3.It provides a timestamp..

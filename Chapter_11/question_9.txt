@@ -1,0 +1,3 @@
+Step In--> moves debugger into a function call.
+Step Over --> Executes the function call quickly without stepping into it.
+Step Out --> Executes the code until it gets out of the function call. 

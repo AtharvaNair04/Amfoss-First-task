@@ -1,0 +1,1 @@
+assert eggs.lower()==bacon.lower(),'Both the variables are same.'

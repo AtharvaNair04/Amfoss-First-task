@@ -1,0 +1,1 @@
+It will only stop after the end line code or a line with break.

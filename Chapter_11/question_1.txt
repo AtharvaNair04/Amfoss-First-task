@@ -1,0 +1,1 @@
+assert spam>=10,'The variable is less than 10.'
