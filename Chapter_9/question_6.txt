@@ -1,0 +1,3 @@
+
+.folder--> current folder
+..folder--> parent folder

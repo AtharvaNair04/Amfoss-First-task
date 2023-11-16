@@ -1,0 +1,2 @@
+. character --> any chacter except newline character.
+If re.DOTALL is passed it will match new line character.

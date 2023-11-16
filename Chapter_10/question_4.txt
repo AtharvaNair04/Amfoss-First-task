@@ -1,0 +1,1 @@
+The functon  equivalent to open() method is the zipfile.ZipFile() in which first argument is the filename and the second argument is the mode to open the zip file.

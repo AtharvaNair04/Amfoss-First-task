@@ -1,0 +1,3 @@
+\D --> not a digit character
+\W --> not a word charcter
+\S --> not a space character

@@ -1,6 +1,6 @@
 def isValidChessBoard(board):
-    white_pieces={'pawn':0,'knight':0 ,'bishop':0,'rook':0,'queen':0,'king':0}
-    black_pieces={'pawn':0,'knight':0 ,'bishop':0,'rook':0,'queen':0,'king':0}
+    white_pieces={'pawn':0,'knight':0,'bishop':0,'rook':0,'queen':0,'king':0}
+    black_pieces={'pawn':0,'knight':0,'bishop':0,'rook':0,'queen':0,'king':0}
     for position,piece in board.items():
         if not(position[0] in '12345678' and  position[1] in 'abcdegh'):
             return False

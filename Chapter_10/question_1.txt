@@ -1,0 +1,3 @@
+shutil.copy()--> It only copies a single file
+shutil.copytree()-->  It copies an entire folder along with its contents.
+

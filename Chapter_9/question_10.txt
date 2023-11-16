@@ -1,0 +1,2 @@
+read():- this function returns everything inside the file.
+readlines():-  this function  returns a list of string in which each string repesent  a  line of the content inside the file.

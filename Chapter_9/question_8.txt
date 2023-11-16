@@ -1,0 +1,3 @@
+'r' -->  read mode
+'w' -->  write mode
+'a' --> append mode

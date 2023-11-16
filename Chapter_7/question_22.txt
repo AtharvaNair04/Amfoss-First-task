@@ -1,0 +1,1 @@
+re.compiler(r'(Alice|Bob|Carol)\s(eats|pets|throws)\s(apples|cats|baseballs)\.',re.IGNORECASE)

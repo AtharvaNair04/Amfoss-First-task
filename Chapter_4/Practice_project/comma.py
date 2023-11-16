@@ -9,7 +9,7 @@ def comma(items):
         print("and"+items[-1])
 spam=[]
 while True:
-    my_list=input("Enter an item (or type 'stop' to stop the code): ")
+    my_list=input("Enter an item or type 'stop' to stop the code:")
     if my_list=='stop':
         break
     spam.append(my_list)

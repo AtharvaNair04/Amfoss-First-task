@@ -1,9 +1,9 @@
 import random
 import time
 def multi_quiz():
-    num_Q = 10
-    num_T = 3
-    limit = 8
+    num_Q=10
+    num_T=3
+    limit=8
     def stop_quiz():
         stop=input("Stop the quiz?(yes/no):").lower()
         return stop=='yes'

@@ -1,0 +1,1 @@
+By passing a second argument re.IGONRECASE to re.compile() 

@@ -1,0 +1,1 @@
+The send2trash function will send the file to the recycle bin whereas shutil modules will permanently delete all files.

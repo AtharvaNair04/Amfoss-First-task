@@ -1,0 +1,1 @@
+The function used to rename files is shutil.move().

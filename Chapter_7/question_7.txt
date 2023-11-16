@@ -1,0 +1,2 @@
+If regex has no groups , list of string is returned.
+I f regex has groups, a list of tuples of string is returned.
